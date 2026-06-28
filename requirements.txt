@@ -1,0 +1,12 @@
+faster-whisper
+google-genai
+opencv-python
+mediapipe
+numpy
+ffmpeg-python
+moviepy
+pysubs2
+pyside6
+rich
+tqdm
+python-dotenv
